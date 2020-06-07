@@ -1,0 +1,17 @@
+{
+  "id": "tetrahedrite_-555,80,463",
+  "name": "tetrahedrite",
+  "icon": "waypoint-normal.png",
+  "x": -555,
+  "y": 80,
+  "z": 463,
+  "r": 157,
+  "g": 14,
+  "b": 0,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

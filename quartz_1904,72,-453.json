@@ -1,0 +1,17 @@
+{
+  "id": "quartz_1904,72,-453",
+  "name": "quartz",
+  "icon": "waypoint-normal.png",
+  "x": 1904,
+  "y": 72,
+  "z": -453,
+  "r": 168,
+  "g": 30,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

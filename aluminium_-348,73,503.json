@@ -1,0 +1,17 @@
+{
+  "id": "aluminium_-348,73,503",
+  "name": "aluminium",
+  "icon": "waypoint-normal.png",
+  "x": -348,
+  "y": 73,
+  "z": 503,
+  "r": 174,
+  "g": 0,
+  "b": 12,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

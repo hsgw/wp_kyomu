@@ -1,0 +1,17 @@
+{
+  "id": "coal_-669,79,512",
+  "name": "coal",
+  "icon": "waypoint-normal.png",
+  "x": -669,
+  "y": 79,
+  "z": 512,
+  "r": 127,
+  "g": 1,
+  "b": 0,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

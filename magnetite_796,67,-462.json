@@ -1,0 +1,17 @@
+{
+  "id": "magnetite_796,67,-462",
+  "name": "magnetite",
+  "icon": "waypoint-normal.png",
+  "x": 796,
+  "y": 67,
+  "z": -462,
+  "r": 223,
+  "g": 3,
+  "b": 1,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
