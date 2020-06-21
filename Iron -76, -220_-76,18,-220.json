@@ -1,0 +1,17 @@
+{
+  "id": "Iron -76, -220_-76,18,-220",
+  "name": "Iron -76, -220",
+  "icon": "waypoint-normal.png",
+  "x": -76,
+  "y": 18,
+  "z": -220,
+  "r": 159,
+  "g": 2,
+  "b": 1,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

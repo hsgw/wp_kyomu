@@ -1,0 +1,17 @@
+{
+  "id": "Oilsand_3,61,-219",
+  "name": "Oilsand",
+  "icon": "waypoint-normal.png",
+  "x": 3,
+  "y": 61,
+  "z": -219,
+  "r": 207,
+  "g": 3,
+  "b": 1,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
