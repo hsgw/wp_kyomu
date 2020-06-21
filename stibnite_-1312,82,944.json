@@ -1,0 +1,17 @@
+{
+  "id": "stibnite_-1312,82,944",
+  "name": "stibnite",
+  "icon": "waypoint-normal.png",
+  "x": -1312,
+  "y": 82,
+  "z": 944,
+  "r": 251,
+  "g": 1,
+  "b": 23,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

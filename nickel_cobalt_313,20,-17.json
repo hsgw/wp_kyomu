@@ -1,0 +1,17 @@
+{
+  "id": "nickel/cobalt_313,20,-17",
+  "name": "nickel/cobalt",
+  "icon": "waypoint-normal.png",
+  "x": 313,
+  "y": 20,
+  "z": -17,
+  "r": 109,
+  "g": 0,
+  "b": 11,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

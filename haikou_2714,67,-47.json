@@ -1,0 +1,17 @@
+{
+  "id": "haikou_2714,67,-47",
+  "name": "haikou",
+  "icon": "waypoint-normal.png",
+  "x": 2714,
+  "y": 67,
+  "z": -47,
+  "r": 165,
+  "g": 214,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

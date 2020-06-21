@@ -1,0 +1,17 @@
+{
+  "id": "magnetite/gold_-29,67,157",
+  "name": "magnetite/gold",
+  "icon": "waypoint-normal.png",
+  "x": -29,
+  "y": 67,
+  "z": 157,
+  "r": 200,
+  "g": 39,
+  "b": 0,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
