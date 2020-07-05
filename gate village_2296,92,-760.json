@@ -1,0 +1,17 @@
+{
+  "id": "gate village_2296,92,-760",
+  "name": "gate village",
+  "icon": "waypoint-normal.png",
+  "x": 2296,
+  "y": 92,
+  "z": -760,
+  "r": 255,
+  "g": 240,
+  "b": 237,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

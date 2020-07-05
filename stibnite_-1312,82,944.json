@@ -1,17 +1,17 @@
 {
-  "id": "magnetite_2139,81,-389",
-  "name": "magnetite",
+  "id": "stibnite_-1312,82,944",
+  "name": "stibnite",
   "icon": "waypoint-normal.png",
-  "x": 2139,
-  "y": 81,
-  "z": -389,
+  "x": -1312,
+  "y": 82,
+  "z": 944,
   "r": 251,
-  "g": 32,
-  "b": 1,
+  "g": 1,
+  "b": 23,
   "enable": false,
   "type": "Normal",
   "origin": "JourneyMap",
   "dimensions": [
-    0
+    -1
   ]
 }

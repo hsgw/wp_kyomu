@@ -1,0 +1,17 @@
+{
+  "id": "gate_2315,96,-762",
+  "name": "gate",
+  "icon": "waypoint-normal.png",
+  "x": 2315,
+  "y": 96,
+  "z": -762,
+  "r": 254,
+  "g": 231,
+  "b": 253,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

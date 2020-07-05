@@ -1,17 +1,17 @@
 {
-  "id": "tetrahedrite_67,99,431",
-  "name": "tetrahedrite",
+  "id": "redstone_-632,13,680",
+  "name": "redstone",
   "icon": "waypoint-normal.png",
-  "x": 67,
-  "y": 99,
-  "z": 431,
-  "r": 125,
+  "x": -632,
+  "y": 13,
+  "z": 680,
+  "r": 102,
   "g": 0,
-  "b": 13,
+  "b": 20,
   "enable": false,
   "type": "Normal",
   "origin": "JourneyMap",
   "dimensions": [
-    0
+    -1
   ]
 }

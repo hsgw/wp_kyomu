@@ -1,0 +1,17 @@
+{
+  "id": "Basalt -21, 305_-21,63,305",
+  "name": "Basalt -21, 305",
+  "icon": "waypoint-normal.png",
+  "x": -21,
+  "y": 63,
+  "z": 305,
+  "r": 126,
+  "g": 6,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
