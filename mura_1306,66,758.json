@@ -1,0 +1,17 @@
+{
+  "id": "mura_1306,66,758",
+  "name": "mura",
+  "icon": "waypoint-normal.png",
+  "x": 1306,
+  "y": 66,
+  "z": 758,
+  "r": 74,
+  "g": 176,
+  "b": 117,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

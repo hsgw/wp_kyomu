@@ -1,0 +1,17 @@
+{
+  "id": "Yousai_802,66,-418",
+  "name": "Yousai",
+  "icon": "waypoint-normal.png",
+  "x": 802,
+  "y": 66,
+  "z": -418,
+  "r": 69,
+  "g": 100,
+  "b": 3,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
