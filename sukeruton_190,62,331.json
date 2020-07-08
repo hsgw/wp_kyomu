@@ -1,0 +1,17 @@
+{
+  "id": "sukeruton_190,62,331",
+  "name": "sukeruton",
+  "icon": "waypoint-normal.png",
+  "x": 190,
+  "y": 62,
+  "z": 331,
+  "r": 29,
+  "g": 22,
+  "b": 108,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
