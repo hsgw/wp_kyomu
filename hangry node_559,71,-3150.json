@@ -1,0 +1,17 @@
+{
+  "id": "hangry node_559,71,-3150",
+  "name": "hangry node",
+  "icon": "waypoint-normal.png",
+  "x": 559,
+  "y": 71,
+  "z": -3150,
+  "r": 1,
+  "g": 0,
+  "b": 161,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
